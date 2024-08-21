@@ -8,8 +8,8 @@ Meu nome é Júlia
 - 
 
 
-![] (https://media.tenor.com/CzaHhPyIR8gAAAAM/rosy00.gif) 
-![] (https://media1.tenor.com/m/DRq6nYiimt4AAAAC/mickey-whistling.gif)
+![](https://media.tenor.com/CzaHhPyIR8gAAAAM/rosy00.gif) 
+![](https://media1.tenor.com/m/DRq6nYiimt4AAAAC/mickey-whistling.gif)
 
 
 
